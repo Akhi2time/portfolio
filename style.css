@@ -222,16 +222,22 @@
   /* portfolio project images */
  
   .sdsu {
-    background-image: url("../images/02-portfolio-1.jpg"); 
+    background-image: url("./images/sdsu view.jpeg"); 
+    background-size: cover;
+    background-position: center;
   }
   
-  .linkedin {
-    background-image: url("../images/02-portfolio-2.jpg");
+  .LinkedIn {
+    background-image: url("./images/sdsu view.jpeg"); 
+    background-size: cover;
+    background-position: center;
   }
   
   
-  .metrobehavioralhealth {
-    background-image: url("../images/02-portfolio-4.jpg");
+  .metro {
+    background-image: url("./images/sdsu view.jpeg"); 
+    background-size: cover;
+    background-position: center;
   }
   
   /* end portfolio project images */
